@@ -6,6 +6,8 @@ This repository is the official code of paper "Med-GLIP: Advancing Medical Langu
 Large-scale Grounded Dataset"
 
 ## Dataset Information
+Med-GLIP-5M is a modality-aware grounding framework trained across heterogeneous datasets. Rather than relying on explicitly designed expert modules, Med-GLIP implicitly acquires hierarchical semantic understanding from diverse training data — enabling it to recognize multi-granularity structures, such as distinguishing lungs from pneumonia lesions.
+
 
 ## Requirement
 To set up the environment of mmdetection, check the official website of [mmdetection](https://mmdetection.readthedocs.io/en/latest/get_started.html)
