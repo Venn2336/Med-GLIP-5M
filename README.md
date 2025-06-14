@@ -9,6 +9,9 @@ Large-scale Grounded Dataset"
 Med-GLIP-5M is a modality-aware grounding framework trained across heterogeneous datasets. Rather than relying on explicitly designed expert modules, Med-GLIP implicitly acquires hierarchical semantic understanding from diverse training data — enabling it to recognize multi-granularity structures, such as distinguishing lungs from pneumonia lesions.
 
 This dataset comprises over 11 million medical images across 7 modalities, covering diverse anatomical regions. Originally annotated with 198 fine-grained labels, these have been reorganized into 38 semantically coherent classes spanning 6 major body regions. This hierarchical, multimodal structure supports a wide range of tasks, including organ-level segmentation, multi-organ detection, cross-modal learning, and domain adaptation.
+<p align="center">
+  <img src="figures/datapipeline.png" width="90%"/>
+</p>
 ## Requirement
 To set up the environment of mmdetection, check the official website of [mmdetection](https://mmdetection.readthedocs.io/en/latest/get_started.html)
 
