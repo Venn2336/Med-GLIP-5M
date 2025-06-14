@@ -12,6 +12,7 @@ This dataset comprises over 11 million medical images across 7 modalities, cover
 <p align="center">
   <img src="figures/datapipeline.png" width="90%"/>
 </p>
+
 ## Requirement
 To set up the environment of mmdetection, check the official website of [mmdetection](https://mmdetection.readthedocs.io/en/latest/get_started.html)
 
