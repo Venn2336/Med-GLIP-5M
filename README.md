@@ -1,6 +1,6 @@
 # Med-GLIP-5M
 
-Please refer to the following link for more information about the dataset: [Med- GLIP-5M](https://modelscope.cn/datasets/Venn2025/Med-GLIP-5M).
+Please refer to the following link for more information about the dataset: [Med-GLIP-5M](https://huggingface.co/datasets/Med-GLIP/Med-GLIP-5M/tree/main).
 
 This repository is the official code of paper "Med-GLIP: Advancing Medical Language-Image Pre-training with
 Large-scale Grounded Dataset"
